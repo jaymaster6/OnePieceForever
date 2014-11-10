@@ -1,33 +1,29 @@
-OnePieceForever
-===============
-
 #Ilhan
 
 1.  Gemüse
     
-    *Salat
+    * Salat
     
-    *Tomaten
+    * Tomaten
 
-    *Kartoffeln
+    * Kartoffeln
     
-    *Karotten
-	
-	*Zwiebeln
+    * Karotten
+
 
 2.  Früchte
 
-    *Apfel
+    * Apfel
     
-    *Birne
+    * Birne
     
-    *Banane
+    * Banane
     
-    *Mango
+    * Mango
     
-    *Mandarine
+    * Mandarine
     
-    *Orange
+    * Orange
     
     
 | Serie         | Hauptdarsteller    | Herkunft  |
